@@ -1,0 +1,5 @@
+.cardLinks{
+    display: flex;
+    gap: 30px;
+    font-size: 1.3em;
+}

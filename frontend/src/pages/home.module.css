@@ -1,0 +1,10 @@
+.mybtn{
+    width: 20vw;
+    font-size: 1.2em;
+}
+.pages{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px 0;
+}

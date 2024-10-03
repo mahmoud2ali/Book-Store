@@ -1,0 +1,7 @@
+.mybtn{
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    margin: 20px auto;
+    width: 40vw;
+    font-size: 1.5em;
+}

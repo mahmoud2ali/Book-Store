@@ -1,0 +1,19 @@
+td{
+    padding: 10px 0 !important; 
+}
+
+.links{
+    display: flex;
+    justify-content: left;
+    gap: 10%;
+}
+i{
+    font-size: 1.3em;
+    color: #0B5ED7;
+    transition: 0.5s ease;
+}
+
+i:hover{
+    color: #000;
+}
+

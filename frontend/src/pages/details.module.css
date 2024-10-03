@@ -1,0 +1,13 @@
+.cardLinks{
+    display: flex;
+    font-size: 1.3em;
+    gap: 30px;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;   
+}
