@@ -57,12 +57,3 @@ Ensure you have the following installed:
    cd client
    npm start
    ```
-
-## API Endpoints
-
-| Method | Endpoint        | Description             |
-| ------ | --------------- | ----------------------- |
-| GET    | /api/books      | Get all books           |
-| POST   | /api/books      | Add a new book          |
-| PUT    | /api/books/\:id | Update an existing book |
-| DELETE | /api/books/\:id | Delete a book           |
